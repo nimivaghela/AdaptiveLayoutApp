@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidAdaptiveLayout</string>
+    <string name="title_activity_predictive_back">PredictiveBackActivity</string>
+    <string name="title_activity_animate_screen">AnimateScreenActivity</string>
+    <string name="title_activity_pane_expansion_with_custom_animation">
+        PaneExpansionWithCustomAnimationActivity
+    </string>
+</resources>
