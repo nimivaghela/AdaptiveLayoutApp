@@ -22,3 +22,8 @@ This project demonstrates an adaptive layout in Jetpack Compose with draggable p
 - Jetpack Compose dependencies
 
 ### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/nimivaghela/AdaptiveLayoutApp.git
+   cd adaptive-draggable-pane-layout
